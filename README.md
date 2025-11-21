@@ -60,3 +60,9 @@ https://www.npmjs.com/package/qrcode-terminal
 GPL-3.0-License
 
 
+*Contact*
++263784026375
+
+godziprince@gmail.com
+
+
