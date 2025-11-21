@@ -5,7 +5,7 @@ Prince - WhatsApp Bot
 A simple WhatsApp automation and management bot using *whatsapp-web.js*. It replies to specific keywords with custom responses and can be expanded with more intelligent features.
 
 
-Features
+*Features*
 
 - Auto-replies to specific messages  
 - Custom keyword-response mapping  
@@ -13,7 +13,7 @@ Features
 - Lightweight and beginner-friendly
 
 
-Installation*l
+*Installation*
 
 bash
 sudo apt update && sudo apt install -y git nodejs npm
@@ -24,7 +24,7 @@ npm install
 
 
 
-Usag
+*Usage*
 
 bash
 node index.js
@@ -35,7 +35,7 @@ node index.js
 
 
 
-Example Commands
+*Example Commands*
 
 | Message       | Bot Reply                         |
 |---------------|---------------------------------
