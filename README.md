@@ -45,7 +45,7 @@ Example Commands
 | `bye`         | `👋`                               |
 | `zimbabwe`    | inyika yakanaka Zimbabwe `       |
 
----
+
 
 *Dependencies*
 
@@ -54,10 +54,9 @@ Example Commands
 - *qrcode-terminal*
 https://www.npmjs.com/package/qrcode-terminal
 
----
+
 
 *License*
+GPL-3.0-License
 
-MIT License
 
----
