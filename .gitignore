@@ -11,11 +11,11 @@
 #Testing Output folder
 .output/
 #Extension App-file
-*.app
+.app
 #Rapid Application Development File
 rad.json
 #Translation Base-file
-*.g.xlf
+.g.xlf
 #License-file
 *.flf
 #Test results file
