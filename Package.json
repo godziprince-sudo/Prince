@@ -1,5 +1,5 @@
 {
- "name": "my-bot",
+ "name": "prince",
  "version": "1.0.0",
  "description": "WhatsApp bot using Baileys",
  "main": "index.js",
